@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+  <book cathegory="fantasy">
+    <name>The Hobbit</name>
+    <author>J. R. R. Tolkien</author>
+    <publication_year>1991</publication_year>
+    <price>7.99</price>
+  </book>
+  <book cathegory="criminal">
+    <name>Kings Ransom</name>
+    <author>Ed McBain</author>
+    <publication_year>1959</publication_year>
+    <price>4.99</price>
+  </book>
+  <book cathegory="romane">
+    <name>City of Bones</name>
+    <author>Cassandra Clare</author>
+    <publication_year>2007</publication_year>
+    <price>8.20</price>
+  </book>
+</bookstore>
